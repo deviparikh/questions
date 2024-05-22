@@ -1,606 +1,606 @@
 var alist = [
 {
-"art": "/questions/static/img/art/0.png",
+"art": "./static/img/art/0.png",
   "apid":0,
 },
 {
-"art": "/questions/static/img/art/1.png",
+"art": "./static/img/art/1.png",
   "apid":1,
 },
 {
-"art": "/questions/static/img/art/10.png",
+"art": "./static/img/art/10.png",
   "apid":2,
 },
 {
-"art": "/questions/static/img/art/11.png",
+"art": "./static/img/art/11.png",
   "apid":3,
 },
 {
-"art": "/questions/static/img/art/12.png",
+"art": "./static/img/art/12.png",
   "apid":4,
 },
 {
-"art": "/questions/static/img/art/128.png",
+"art": "./static/img/art/128.png",
   "apid":5,
 },
 {
-"art": "/questions/static/img/art/129.png",
+"art": "./static/img/art/129.png",
   "apid":6,
 },
 {
-"art": "/questions/static/img/art/13.png",
+"art": "./static/img/art/13.png",
   "apid":7,
 },
 {
-"art": "/questions/static/img/art/130.png",
+"art": "./static/img/art/130.png",
   "apid":8,
 },
 {
-"art": "/questions/static/img/art/131.png",
+"art": "./static/img/art/131.png",
   "apid":9,
 },
 {
-"art": "/questions/static/img/art/132.png",
+"art": "./static/img/art/132.png",
   "apid":10,
 },
 {
-"art": "/questions/static/img/art/133.png",
+"art": "./static/img/art/133.png",
   "apid":11,
 },
 {
-"art": "/questions/static/img/art/134.png",
+"art": "./static/img/art/134.png",
   "apid":12,
 },
 {
-"art": "/questions/static/img/art/14.png",
+"art": "./static/img/art/14.png",
   "apid":13,
 },
 {
-"art": "/questions/static/img/art/15.png",
+"art": "./static/img/art/15.png",
   "apid":14,
 },
 {
-"art": "/questions/static/img/art/153.png",
+"art": "./static/img/art/153.png",
   "apid":15,
 },
 {
-"art": "/questions/static/img/art/154.png",
+"art": "./static/img/art/154.png",
   "apid":16,
 },
 {
-"art": "/questions/static/img/art/155.png",
+"art": "./static/img/art/155.png",
   "apid":17,
 },
 {
-"art": "/questions/static/img/art/156.png",
+"art": "./static/img/art/156.png",
   "apid":18,
 },
 {
-"art": "/questions/static/img/art/157.png",
+"art": "./static/img/art/157.png",
   "apid":19,
 },
 {
-"art": "/questions/static/img/art/158.png",
+"art": "./static/img/art/158.png",
   "apid":20,
 },
 {
-"art": "/questions/static/img/art/159.png",
+"art": "./static/img/art/159.png",
   "apid":21,
 },
 {
-"art": "/questions/static/img/art/16.png",
+"art": "./static/img/art/16.png",
   "apid":22,
 },
 {
-"art": "/questions/static/img/art/17.png",
+"art": "./static/img/art/17.png",
   "apid":23,
 },
 {
-"art": "/questions/static/img/art/18.png",
+"art": "./static/img/art/18.png",
   "apid":24,
 },
 {
-"art": "/questions/static/img/art/183.png",
+"art": "./static/img/art/183.png",
   "apid":25,
 },
 {
-"art": "/questions/static/img/art/184.png",
+"art": "./static/img/art/184.png",
   "apid":26,
 },
 {
-"art": "/questions/static/img/art/185.png",
+"art": "./static/img/art/185.png",
   "apid":27,
 },
 {
-"art": "/questions/static/img/art/186.png",
+"art": "./static/img/art/186.png",
   "apid":28,
 },
 {
-"art": "/questions/static/img/art/187.png",
+"art": "./static/img/art/187.png",
   "apid":29,
 },
 {
-"art": "/questions/static/img/art/188.png",
+"art": "./static/img/art/188.png",
   "apid":30,
 },
 {
-"art": "/questions/static/img/art/189.png",
+"art": "./static/img/art/189.png",
   "apid":31,
 },
 {
-"art": "/questions/static/img/art/19.png",
+"art": "./static/img/art/19.png",
   "apid":32,
 },
 {
-"art": "/questions/static/img/art/190.png",
+"art": "./static/img/art/190.png",
   "apid":33,
 },
 {
-"art": "/questions/static/img/art/191.png",
+"art": "./static/img/art/191.png",
   "apid":34,
 },
 {
-"art": "/questions/static/img/art/2.png",
+"art": "./static/img/art/2.png",
   "apid":35,
 },
 {
-"art": "/questions/static/img/art/222.png",
+"art": "./static/img/art/222.png",
   "apid":36,
 },
 {
-"art": "/questions/static/img/art/223.png",
+"art": "./static/img/art/223.png",
   "apid":37,
 },
 {
-"art": "/questions/static/img/art/224.png",
+"art": "./static/img/art/224.png",
   "apid":38,
 },
 {
-"art": "/questions/static/img/art/225.png",
+"art": "./static/img/art/225.png",
   "apid":39,
 },
 {
-"art": "/questions/static/img/art/226.png",
+"art": "./static/img/art/226.png",
   "apid":40,
 },
 {
-"art": "/questions/static/img/art/227.png",
+"art": "./static/img/art/227.png",
   "apid":41,
 },
 {
-"art": "/questions/static/img/art/228.png",
+"art": "./static/img/art/228.png",
   "apid":42,
 },
 {
-"art": "/questions/static/img/art/229.png",
+"art": "./static/img/art/229.png",
   "apid":43,
 },
 {
-"art": "/questions/static/img/art/230.png",
+"art": "./static/img/art/230.png",
   "apid":44,
 },
 {
-"art": "/questions/static/img/art/24.png",
+"art": "./static/img/art/24.png",
   "apid":45,
 },
 {
-"art": "/questions/static/img/art/25.png",
+"art": "./static/img/art/25.png",
   "apid":46,
 },
 {
-"art": "/questions/static/img/art/251.png",
+"art": "./static/img/art/251.png",
   "apid":47,
 },
 {
-"art": "/questions/static/img/art/252.png",
+"art": "./static/img/art/252.png",
   "apid":48,
 },
 {
-"art": "/questions/static/img/art/253.png",
+"art": "./static/img/art/253.png",
   "apid":49,
 },
 {
-"art": "/questions/static/img/art/254.png",
+"art": "./static/img/art/254.png",
   "apid":50,
 },
 {
-"art": "/questions/static/img/art/255.png",
+"art": "./static/img/art/255.png",
   "apid":51,
 },
 {
-"art": "/questions/static/img/art/256.png",
+"art": "./static/img/art/256.png",
   "apid":52,
 },
 {
-"art": "/questions/static/img/art/257.png",
+"art": "./static/img/art/257.png",
   "apid":53,
 },
 {
-"art": "/questions/static/img/art/258.png",
+"art": "./static/img/art/258.png",
   "apid":54,
 },
 {
-"art": "/questions/static/img/art/26.png",
+"art": "./static/img/art/26.png",
   "apid":55,
 },
 {
-"art": "/questions/static/img/art/27.png",
+"art": "./static/img/art/27.png",
   "apid":56,
 },
 {
-"art": "/questions/static/img/art/28.png",
+"art": "./static/img/art/28.png",
   "apid":57,
 },
 {
-"art": "/questions/static/img/art/286.png",
+"art": "./static/img/art/286.png",
   "apid":58,
 },
 {
-"art": "/questions/static/img/art/287.png",
+"art": "./static/img/art/287.png",
   "apid":59,
 },
 {
-"art": "/questions/static/img/art/288.png",
+"art": "./static/img/art/288.png",
   "apid":60,
 },
 {
-"art": "/questions/static/img/art/289.png",
+"art": "./static/img/art/289.png",
   "apid":61,
 },
 {
-"art": "/questions/static/img/art/29.png",
+"art": "./static/img/art/29.png",
   "apid":62,
 },
 {
-"art": "/questions/static/img/art/290.png",
+"art": "./static/img/art/290.png",
   "apid":63,
 },
 {
-"art": "/questions/static/img/art/291.png",
+"art": "./static/img/art/291.png",
   "apid":64,
 },
 {
-"art": "/questions/static/img/art/292.png",
+"art": "./static/img/art/292.png",
   "apid":65,
 },
 {
-"art": "/questions/static/img/art/293.png",
+"art": "./static/img/art/293.png",
   "apid":66,
 },
 {
-"art": "/questions/static/img/art/3.png",
+"art": "./static/img/art/3.png",
   "apid":67,
 },
 {
-"art": "/questions/static/img/art/30.png",
+"art": "./static/img/art/30.png",
   "apid":68,
 },
 {
-"art": "/questions/static/img/art/31.png",
+"art": "./static/img/art/31.png",
   "apid":69,
 },
 {
-"art": "/questions/static/img/art/32.png",
+"art": "./static/img/art/32.png",
   "apid":70,
 },
 {
-"art": "/questions/static/img/art/324.png",
+"art": "./static/img/art/324.png",
   "apid":71,
 },
 {
-"art": "/questions/static/img/art/33.png",
+"art": "./static/img/art/33.png",
   "apid":72,
 },
 {
-"art": "/questions/static/img/art/36.png",
+"art": "./static/img/art/36.png",
   "apid":73,
 },
 {
-"art": "/questions/static/img/art/37.png",
+"art": "./static/img/art/37.png",
   "apid":74,
 },
 {
-"art": "/questions/static/img/art/38.png",
+"art": "./static/img/art/38.png",
   "apid":75,
 },
 {
-"art": "/questions/static/img/art/382.png",
+"art": "./static/img/art/382.png",
   "apid":76,
 },
 {
-"art": "/questions/static/img/art/383.png",
+"art": "./static/img/art/383.png",
   "apid":77,
 },
 {
-"art": "/questions/static/img/art/384.png",
+"art": "./static/img/art/384.png",
   "apid":78,
 },
 {
-"art": "/questions/static/img/art/39.png",
+"art": "./static/img/art/39.png",
   "apid":79,
 },
 {
-"art": "/questions/static/img/art/391.png",
+"art": "./static/img/art/391.png",
   "apid":80,
 },
 {
-"art": "/questions/static/img/art/392.png",
+"art": "./static/img/art/392.png",
   "apid":81,
 },
 {
-"art": "/questions/static/img/art/393.png",
+"art": "./static/img/art/393.png",
   "apid":82,
 },
 {
-"art": "/questions/static/img/art/4.png",
+"art": "./static/img/art/4.png",
   "apid":83,
 },
 {
-"art": "/questions/static/img/art/40.png",
+"art": "./static/img/art/40.png",
   "apid":84,
 },
 {
-"art": "/questions/static/img/art/400.png",
+"art": "./static/img/art/400.png",
   "apid":85,
 },
 {
-"art": "/questions/static/img/art/407.png",
+"art": "./static/img/art/407.png",
   "apid":86,
 },
 {
-"art": "/questions/static/img/art/41.png",
+"art": "./static/img/art/41.png",
   "apid":87,
 },
 {
-"art": "/questions/static/img/art/413.png",
+"art": "./static/img/art/413.png",
   "apid":88,
 },
 {
-"art": "/questions/static/img/art/414.png",
+"art": "./static/img/art/414.png",
   "apid":89,
 },
 {
-"art": "/questions/static/img/art/419.png",
+"art": "./static/img/art/419.png",
   "apid":90,
 },
 {
-"art": "/questions/static/img/art/42.png",
+"art": "./static/img/art/42.png",
   "apid":91,
 },
 {
-"art": "/questions/static/img/art/420.png",
+"art": "./static/img/art/420.png",
   "apid":92,
 },
 {
-"art": "/questions/static/img/art/43.png",
+"art": "./static/img/art/43.png",
   "apid":93,
 },
 {
-"art": "/questions/static/img/art/44.png",
+"art": "./static/img/art/44.png",
   "apid":94,
 },
 {
-"art": "/questions/static/img/art/45.png",
+"art": "./static/img/art/45.png",
   "apid":95,
 },
 {
-"art": "/questions/static/img/art/46.png",
+"art": "./static/img/art/46.png",
   "apid":96,
 },
 {
-"art": "/questions/static/img/art/47.png",
+"art": "./static/img/art/47.png",
   "apid":97,
 },
 {
-"art": "/questions/static/img/art/48.png",
+"art": "./static/img/art/48.png",
   "apid":98,
 },
 {
-"art": "/questions/static/img/art/49.png",
+"art": "./static/img/art/49.png",
   "apid":99,
 },
 {
-"art": "/questions/static/img/art/5.png",
+"art": "./static/img/art/5.png",
   "apid":100,
 },
 {
-"art": "/questions/static/img/art/50.png",
+"art": "./static/img/art/50.png",
   "apid":101,
 },
 {
-"art": "/questions/static/img/art/51.png",
+"art": "./static/img/art/51.png",
   "apid":102,
 },
 {
-"art": "/questions/static/img/art/52.png",
+"art": "./static/img/art/52.png",
   "apid":103,
 },
 {
-"art": "/questions/static/img/art/53.png",
+"art": "./static/img/art/53.png",
   "apid":104,
 },
 {
-"art": "/questions/static/img/art/54.png",
+"art": "./static/img/art/54.png",
   "apid":105,
 },
 {
-"art": "/questions/static/img/art/55.png",
+"art": "./static/img/art/55.png",
   "apid":106,
 },
 {
-"art": "/questions/static/img/art/58.png",
+"art": "./static/img/art/58.png",
   "apid":107,
 },
 {
-"art": "/questions/static/img/art/59.png",
+"art": "./static/img/art/59.png",
   "apid":108,
 },
 {
-"art": "/questions/static/img/art/6.png",
+"art": "./static/img/art/6.png",
   "apid":109,
 },
 {
-"art": "/questions/static/img/art/60.png",
+"art": "./static/img/art/60.png",
   "apid":110,
 },
 {
-"art": "/questions/static/img/art/61.png",
+"art": "./static/img/art/61.png",
   "apid":111,
 },
 {
-"art": "/questions/static/img/art/62.png",
+"art": "./static/img/art/62.png",
   "apid":112,
 },
 {
-"art": "/questions/static/img/art/63.png",
+"art": "./static/img/art/63.png",
   "apid":113,
 },
 {
-"art": "/questions/static/img/art/64.png",
+"art": "./static/img/art/64.png",
   "apid":114,
 },
 {
-"art": "/questions/static/img/art/65.png",
+"art": "./static/img/art/65.png",
   "apid":115,
 },
 {
-"art": "/questions/static/img/art/66.png",
+"art": "./static/img/art/66.png",
   "apid":116,
 },
 {
-"art": "/questions/static/img/art/67.png",
+"art": "./static/img/art/67.png",
   "apid":117,
 },
 {
-"art": "/questions/static/img/art/7.png",
+"art": "./static/img/art/7.png",
   "apid":118,
 },
 {
-"art": "/questions/static/img/art/70.png",
+"art": "./static/img/art/70.png",
   "apid":119,
 },
 {
-"art": "/questions/static/img/art/71.png",
+"art": "./static/img/art/71.png",
   "apid":120,
 },
 {
-"art": "/questions/static/img/art/72.png",
+"art": "./static/img/art/72.png",
   "apid":121,
 },
 {
-"art": "/questions/static/img/art/73.png",
+"art": "./static/img/art/73.png",
   "apid":122,
 },
 {
-"art": "/questions/static/img/art/74.png",
+"art": "./static/img/art/74.png",
   "apid":123,
 },
 {
-"art": "/questions/static/img/art/75.png",
+"art": "./static/img/art/75.png",
   "apid":124,
 },
 {
-"art": "/questions/static/img/art/76.png",
+"art": "./static/img/art/76.png",
   "apid":125,
 },
 {
-"art": "/questions/static/img/art/77.png",
+"art": "./static/img/art/77.png",
   "apid":126,
 },
 {
-"art": "/questions/static/img/art/78.png",
+"art": "./static/img/art/78.png",
   "apid":127,
 },
 {
-"art": "/questions/static/img/art/79.png",
+"art": "./static/img/art/79.png",
   "apid":128,
 },
 {
-"art": "/questions/static/img/art/8.png",
+"art": "./static/img/art/8.png",
   "apid":129,
 },
 {
-"art": "/questions/static/img/art/80.png",
+"art": "./static/img/art/80.png",
   "apid":130,
 },
 {
-"art": "/questions/static/img/art/81.png",
+"art": "./static/img/art/81.png",
   "apid":131,
 },
 {
-"art": "/questions/static/img/art/82.png",
+"art": "./static/img/art/82.png",
   "apid":132,
 },
 {
-"art": "/questions/static/img/art/83.png",
+"art": "./static/img/art/83.png",
   "apid":133,
 },
 {
-"art": "/questions/static/img/art/84.png",
+"art": "./static/img/art/84.png",
   "apid":134,
 },
 {
-"art": "/questions/static/img/art/85.png",
+"art": "./static/img/art/85.png",
   "apid":135,
 },
 {
-"art": "/questions/static/img/art/86.png",
+"art": "./static/img/art/86.png",
   "apid":136,
 },
 {
-"art": "/questions/static/img/art/87.png",
+"art": "./static/img/art/87.png",
   "apid":137,
 },
 {
-"art": "/questions/static/img/art/88.png",
+"art": "./static/img/art/88.png",
   "apid":138,
 },
 {
-"art": "/questions/static/img/art/89.png",
+"art": "./static/img/art/89.png",
   "apid":139,
 },
 {
-"art": "/questions/static/img/art/9.png",
+"art": "./static/img/art/9.png",
   "apid":140,
 },
 {
-"art": "/questions/static/img/art/90.png",
+"art": "./static/img/art/90.png",
   "apid":141,
 },
 {
-"art": "/questions/static/img/art/91.png",
+"art": "./static/img/art/91.png",
   "apid":142,
 },
 {
-"art": "/questions/static/img/art/92.png",
+"art": "./static/img/art/92.png",
   "apid":143,
 },
 {
-"art": "/questions/static/img/art/93.png",
+"art": "./static/img/art/93.png",
   "apid":144,
 },
 {
-"art": "/questions/static/img/art/94.png",
+"art": "./static/img/art/94.png",
   "apid":145,
 },
 {
-"art": "/questions/static/img/art/95.png",
+"art": "./static/img/art/95.png",
   "apid":146,
 },
 {
-"art": "/questions/static/img/art/96.png",
+"art": "./static/img/art/96.png",
   "apid":147,
 },
 {
-"art": "/questions/static/img/art/97.png",
+"art": "./static/img/art/97.png",
   "apid":148,
 },
 {
-"art": "/questions/static/img/art/98.png",
+"art": "./static/img/art/98.png",
   "apid":149,
 },
 {
-"art": "/questions/static/img/art/99.png",
+"art": "./static/img/art/99.png",
   "apid":150,
 }
 ];

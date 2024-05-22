@@ -30,5 +30,5 @@ If you have suggestions for questions to add to (or edit on) the site, <a href="
 
 <a href = "./">Let's do this!</a>
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Prefer deeper connections over small talk? This simple conversation tool by @deviparikh is pretty cool!" data-url="https://questions.github.io" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Prefer deeper connections over small talk? This simple conversation tool by @deviparikh is pretty cool!" data-url="https://deviparikh.com/questions" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
