@@ -18,7 +18,7 @@ for j=1:length(images)
 
     name = images(j).name;
 
-    s = ['"art": "../static/img/art/' name '",'];
+    s = ['"art": "/questions/static/img/art/' name '",'];
     fprintf(fid,'%s\n',s);
 
     s = ['"apid":' num2str(j-1) ','];
