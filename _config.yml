@@ -2,7 +2,7 @@ title: Questions by Devi Parikh
 email: deviparikh.dp@gmail.com
 description: No small talk. Meaningful conversations.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://questions.github.io/" # the base hostname & protocol for your site
+url: "https://deviparikh.com/questions" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
