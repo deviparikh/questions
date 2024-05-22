@@ -1,0 +1,97 @@
+* {
+  font-family: helvetica;
+}
+
+/*body {
+  background-image: url("https://www.cc.gatech.edu/~parikh/static/strokes/1.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-blend-mode: 
+}*/
+
+.question {
+  font-size: 32px;
+  color: #575757;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center
+}
+
+.source {
+  font-size: 14px;
+  color: #979797;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center
+}
+
+div {
+  margin: 0px 0px 0px 0px;
+}
+
+input[type="radio"] {
+  margin: 0 0px 0 0px;
+}
+
+button {
+  background-color: #0097e6;
+  border: none;
+  color: white;
+  padding: 10px 10px;
+  font-size: 16px;
+  margin: 0px 0px;
+}
+
+html,
+body,
+.container {
+  /*min-height: 1000px;*/
+  /*height: 100%;*/
+}
+
+.container {
+  display: -webkit-flexbox;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center
+}
+
+
+/* unvisited link */
+a:link {
+  color: #979797;
+}
+
+/* visited link */
+a:visited {
+  color: #979797;
+}
+
+/* mouse over link */
+a:hover {
+  color: #979797;
+}
+
+/* selected link */
+a:active {
+  color: #979797;
+} 
+
+
+img {
+  box-shadow: 0 5px 15px 0 rgba(0,0,0, 0.1);
+}
